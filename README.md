@@ -1,4 +1,5 @@
 # consult-online
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -44,3 +45,6 @@ pnpm build
 ```sh
 pnpm lint
 ```
+=======
+a lilnk can connect the doctor and the patient
+>>>>>>> 0d5ff345268c8456c5a505d3978f5b4959ba23b4
